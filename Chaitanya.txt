@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Hi, this is Chaitanya 
-=======
-Hi, this is chaitanya
->>>>>>> 4633ceebe70bb4fb26a72be2e4a3035c86293080
