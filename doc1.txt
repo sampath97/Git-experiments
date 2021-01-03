@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi, this is my 1st latest commit
+=======
+Hi, this is my 1st commit
+>>>>>>> 3310e932ff4a2177cfc4a9526b55f79558cbe717
